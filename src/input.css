@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .test--red {
+    border: 1px solid red;
+  }
+  .test--green {
+    border: 1px solid green;
+  }
+  .test--blue {
+    border: 1px solid blue;
+  }
+  .test--orange {
+    border: 1px solid orange;
+  }
+  .word-space {
+    word-spacing: 0.3rem;
+  }
+}
