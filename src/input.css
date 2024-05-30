@@ -15,6 +15,9 @@
   .test--orange {
     border: 1px solid orange;
   }
+  .border--black {
+    border: 1px solid #000;
+  }
   .word-space {
     word-spacing: 0.3rem;
   }
